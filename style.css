@@ -1,0 +1,53 @@
+html, body {
+  margin: auto;
+  padding: 0;
+  background-color: rgb(251, 229, 221);
+  color: black;
+  text-align: center;
+  width: auto;
+}
+
+
+h1{
+  font-family: "Silkscreen", sans-serif;
+  font-size: 3em;
+  line-height: 40%;
+  color: rgb(96, 54, 37);
+
+}
+
+h2{
+  font-family: "Silkscreen", sans-serif;
+  font-size: 1.5em;
+  line-height: 40%;
+  color: rgb(228, 131, 155);
+
+
+}
+
+
+
+
+p {
+  font-family: "Pixelify Sans", sans-serif;
+  line-height: 2;
+  font-weight: 10;
+margin-left: 100px;
+margin-right: 100px;
+
+}
+
+p.controls {
+
+  font-family: "Pixelify Sans", sans-serif;
+  line-height: 2;
+margin-left: 200px;
+margin-right: 200px;
+font-weight: bold;
+color: rgb(96, 54, 37);
+font-size: 1.3em;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
